@@ -26,3 +26,4 @@ csrc/riscv_test_regression/**/*.data
 csrc/riscv_test_regression/**/*.map
 csrc/riscv_test_regression/**/*.elf
 csrc/riscv_test_regression/**/*.text
+fusesoc.conf
